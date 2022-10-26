@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @evzheng
+- 👀 I’m interested in expanding my knowledge in coding and the likes. I am using Github to store any and all of my projects
+- 🌱 I’m currently learning HTML to build a Cat Photo App
+- 💞️ I’m looking to collaborate on projects related to data analytics
+- 📫 You can reach me on LinkedIn (https://www.linkedin.com/in/evelyn-z-53b0ab148/) or through my email on LinkedIn!
